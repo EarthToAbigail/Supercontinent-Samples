@@ -1,0 +1,80 @@
+[
+    {
+        "url": "Ted_Nelson/Ted-1.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 0
+    },
+    {
+        "url": "Ted_Nelson/Ted-2.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 1
+    },
+    {
+        "url": "Ted_Nelson/Ted-3.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 2
+    },
+    {
+        "url": "Ted_Nelson/Ted-4.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 3
+    },
+    {
+        "url": "Ted_Nelson/Ted-5.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 4
+    },
+    {
+        "url": "Ted_Nelson/Ted-6.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 5
+    },
+    {
+        "url": "Ted_Nelson/Ted-7.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 6
+    },
+    {
+        "url": "Ted_Nelson/Ted-8.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 7
+    },
+    {
+        "url": "Ted_Nelson/Ted-9.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 8
+    },
+    {
+        "url": "Ted_Nelson/Ted-10.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 9
+    },
+    {
+        "url": "Ted_Nelson/Ted-11.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 10
+    },
+    {
+        "url": "Ted_Nelson/Ted-12.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 11
+    },
+    {
+        "url": "Ted_Nelson/Ted-13.wav",
+        "type": "audio",
+        "bank": "Ted_Nelson",
+        "n": 12
+    }
+]
