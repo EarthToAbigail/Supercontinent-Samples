@@ -76,5 +76,196 @@
         "type": "audio",
         "bank": "Ted_Nelson",
         "n": 12
+    },
+    {
+        "url": "Synths/fm/00.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 0
+    },
+    {
+        "url": "Synths/fm/01.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 1
+    },
+    {
+        "url": "Synths/fm/02.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 2
+    },
+    {
+        "url": "Synths/fm/03.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 3
+    },
+    {
+        "url": "Synths/fm/04.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 4
+    },
+    {
+        "url": "Synths/fm/05.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 5
+    },{
+        "url": "Synths/fm/06.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 6
+    },
+    {
+        "url": "Synths/fm/07.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 7
+    },
+    {
+        "url": "Synths/fm/08.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 8
+    },
+    {
+        "url": "Synths/fm/09.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 9
+    },
+    {
+        "url": "Synths/fm/10.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 10
+    },
+    {
+        "url": "Synths/fm/11.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 11
+    },
+    {
+        "url": "Synths/fm/12.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 12
+    },
+    {
+        "url": "Synths/fm/13.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 13
+    },
+    {
+        "url": "Synths/fm/14.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 14
+    },
+    {
+        "url": "Synths/fm/15.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 15
+    },
+    {
+        "url": "Synths/fm/16.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 16
+    },
+    {
+        "url": "Synths/fm/17.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 17
+    },
+    {
+        "url": "Synths/fm/18.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 18
+    },
+    {
+        "url": "Synths/fm/19.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 19
+    },
+    {
+        "url": "Synths/fm/20.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 20
+    },
+    {
+        "url": "Synths/fm/21.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 21
+    },
+    {
+        "url": "Synths/kalimba/00.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 0
+    },
+    {
+        "url": "Synths/kalimba/01.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 1
+    },
+    {
+        "url": "Synths/kalimba/02.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 2
+    },
+    {
+        "url": "Synths/kalimba/03.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 3
+    },
+    {
+        "url": "Synths/kalimba/04.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 4
+    },
+    {
+        "url": "Synths/kalimba/05.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 5
+    },
+    {
+        "url": "Synths/kalimba/06.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 6
+    },
+    {
+        "url": "Synths/kalimba/07.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 7
+    },
+    {
+        "url": "Synths/kalimba/08.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 8
+    },
+    {
+        "url": "Synths/kalimba/09.wav",
+        "type": "audio",
+        "bank": "fm",
+        "n": 9
     }
 ]
